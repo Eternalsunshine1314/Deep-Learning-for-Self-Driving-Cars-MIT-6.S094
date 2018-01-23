@@ -18,6 +18,8 @@
 
 ### 2018 Edition
 
+https://selfdrivingcars.mit.edu/
+
 #### Lectures
 
 - [Deep Learning](https://www.youtube.com/watch?v=-6INDaLcuJY&list=PLrAXtmErZgOeiKm4sgNOknGvNjby9efdf&index=9) - [[Slides]](https://www.dropbox.com/s/tru13qjw4jcngx9/lecture1.pdf?dl=1)
